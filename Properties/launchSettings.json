@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OfficePasswordCrack": {
+      "commandName": "Project",
+      "commandLineArgs": " g:\\f201701.xlsx g:\\dict.txt 8 1"
+    }
+  }
+}
